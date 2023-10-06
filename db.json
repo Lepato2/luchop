@@ -1,0 +1,34 @@
+{
+ "posts": [
+  {
+   "id": 1,
+   "title": "hello"
+  }
+ ],
+ "profile": {
+  "name": "typicode"
+ }, 
+ "lista":[
+{
+ "id":1,
+ "titulo":"Compras",
+ "subtitulo":"Detalle de compras",
+ "descripcion":"Contenido de las compras",
+ "color": "primary" 
+},
+{
+ "id":2,
+ "titulo":"Ventas",
+ "subtitulo":"Detalle de ventas",
+ "descripcion":"Contenido de las ventas",
+ "color": "success" 
+},
+{
+ "id":3,
+ "titulo":"Proveedores",
+ "subtitulo":"Detalle de Proveedores",
+ "descripcion":"Contenido relacionado a los Proveedores",
+ "color": "info" 
+}
+]
+}
