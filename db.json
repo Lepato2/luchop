@@ -10,7 +10,7 @@
  }, 
  "lista":[
 {
- "id":1,
+ "userId":1,
  "titulo":"Compras",
  "subtitulo":"Detalle de compras",
  "descripcion":"Contenido de las compras",
